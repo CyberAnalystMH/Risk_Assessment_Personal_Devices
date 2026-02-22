@@ -1,6 +1,6 @@
 # Risk_Assessment_Personal_Devices
 **Scope**: Personal Devices, excluding Router
-**Assessor**: CyberSecHazaa
+**Assessor**: Cyber Analyst MH
 **Date**: 5/27/25
 **Scan Tools Used**: Nmap (Nmap -A -O, Nmap --script vuln, Nmap -sV, Nmap, -sT)
 
